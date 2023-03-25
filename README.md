@@ -1,4 +1,4 @@
-# coffee_twist
+Flutter MVC Design Pattern
 
 A new Flutter project.
 
